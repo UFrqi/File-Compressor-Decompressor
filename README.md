@@ -1,4 +1,4 @@
-This is a lossless file compression/decompression program using Huffman coding (Huffman trees). This program is able to compress and decompress image,audio, and text files.
+This is a lossless file compression/decompression program that implements a Huffman coding scheme. This program is able to compress and decompress image, audio, and text files.
 To use, run the huffman.py file and follow the on screen instructions. The file that you wish to modify must be in the folder as the huffman.py file.
 
 ## Compression
